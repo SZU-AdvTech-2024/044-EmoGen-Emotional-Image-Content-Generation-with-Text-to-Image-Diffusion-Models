@@ -1,0 +1,6 @@
+@article{REPO044,
+    author = "Yang, Jingyuan and Feng, Jiawei and Huang, Hui",
+    journal = "arXiv preprint arXiv:2401.04608",
+    title = "{EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models}",
+    year = "2024"
+}
