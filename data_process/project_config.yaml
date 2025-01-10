@@ -1,0 +1,16 @@
+EmoSet_path: "/mnt/d/data/EmoSet_v5_train-test-val/"
+models_path: "/mnt/d/models/"
+clip_path: "/mnt/d/models/clip-vit-large-patch14"
+summary_path: "/mnt/d/bigProject/data/csv/Summary_v3.csv"
+reason_path: "/mnt/d/bigProject/data/csv/Reason.csv"
+
+features_path: "./features/"
+emotion_list:
+  - amusement
+  - awe
+  - contentment
+  - excitement
+  - anger
+  - disgust
+  - fear
+  - sadness
